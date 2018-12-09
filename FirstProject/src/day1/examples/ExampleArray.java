@@ -27,6 +27,13 @@ public class ExampleArray {
 		}
 		
 		System.out.println("-----------");
+		String[] stx= new String[5];
+		
+		stx[3] = "Yo!";
+		stx[4] = "23";
+		for(String temp4: stx) {
+			System.out.println(temp4);
+		}
 		
 
 		
