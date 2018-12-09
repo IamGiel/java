@@ -25,6 +25,12 @@ public class ExampleArray {
 		for(String temp3: st) {
 			System.out.println(temp3);
 		}
+		
+		System.out.println("-----------");
+		
+
+		
+		
 	}
 
 }
